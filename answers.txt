@@ -1,0 +1,11 @@
+Q1) I think that i've to change only the main where is the switch case based on input command;
+in this case it works with switch and a function based on the new command for support it.
+Q2) i can include features such birthday discounts or time-dependent fares with flags that
+can activate the new function about new features. In this case it can not affect my code
+and i consider this case with a dedicated code.
+Q3) i will order the ideas to do in code, after i will ranked them from the most easy to the
+most difficult, considering how much does it cost to implement one function versus other that
+i have analyzed before
+Q4) I can do one function only for print error message, if in the code where is f"ERROR" i will
+replace it with a function and input variables to recognize which error i will print on screen.
+Or i can replace every error message manually translating from english to italian or neapolitan.
